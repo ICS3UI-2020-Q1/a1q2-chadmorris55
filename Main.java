@@ -25,6 +25,6 @@ public class Main {
    int remainder = num1 % num2;
    
    // tells user the answer
-    System.out.println (num1 + "/" + num2 + " is " + quotient + " with a remainder of " + remainder);
+    System.out.println (num1 + "/" + num2 + " is " + quotient + " with a remainder of " + remainder + ".");
   }
 }
